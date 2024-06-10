@@ -150,22 +150,4 @@ docker images
 Para traer imagenes ya creadas ya sea de un repo publico o uno privado usamos:  
 ```bash
 docker pull [nombre-imagen]:[tag]
-``` 
-
-
-
-
-
-
-
-
-
-
-            
-              
-                
-                  
-                    
-                      
-                        
-
+```
