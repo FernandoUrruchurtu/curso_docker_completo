@@ -1,0 +1,4 @@
+services:
+  app:
+    image: platziapp
+    command: node index.js
